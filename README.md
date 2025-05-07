@@ -6,9 +6,7 @@ Ein leichtgewichtiges, cloud-basiertes Manufacturing Execution System (MES) für
 
 ## 🎯 Projektziel
 
-Dieses Projekt entstand aus meiner beruflichen Umorientierung von der Chemie/Materialwissenschaft hin zur IT. Es verbindet meine Erfahrungen aus der Produktion mit dem Wissen aus Kursen wie **CS50x**, **CS50 SQL** und dem **AWS Certified Solutions Architect – Associate**.
-
-Ziel: Ein MES entwickeln, das einfach zu bedienen, cloud-fähig und auf reale Produktionsanforderungen zugeschnitten ist.
+Ziel dieses Projekts ist es, meine erlernten Fähigkeiten aus den Bereichen SQL, Cloud-Computing und Softwarearchitektur in einem praxisnahen und relevanten Anwendungsfall umzusetzen. Dabei steht die Entwicklung eines leichtgewichtigen MES-Systems im Vordergrund, das sich speziell an die Bedürfnisse von Startups und kleinen Fertigungsunternehmen richtet.
 
 ---
 
