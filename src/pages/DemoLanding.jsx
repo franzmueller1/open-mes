@@ -61,7 +61,7 @@ const DemoLanding = () => {
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center gap-2">
               <Factory className="w-8 h-8 text-primary-600" />
-              <span className="text-xl font-bold">MES System</span>
+              <span className="text-xl font-bold">Müller MES</span>
             </div>
             <div className="flex gap-4">
               <button
@@ -168,7 +168,7 @@ const DemoLanding = () => {
       {/* Footer */}
       <footer className="border-t bg-white py-8 px-4 sm:px-6 lg:px-8">
         <div className="max-w-7xl mx-auto text-center text-sm text-gray-600">
-          <p>© 2024 MES System. Entwickelt für moderne Fertigungsunternehmen.</p>
+          <p>© 2024 Müller MES. Entwickelt für moderne Fertigungsunternehmen.</p>
           <p className="mt-2">
             Demo-Modus: Alle Änderungen werden nicht gespeichert. 
             Für die Vollversion registrieren Sie sich bitte.

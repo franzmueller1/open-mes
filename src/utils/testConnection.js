@@ -59,9 +59,9 @@ export const testDatabaseConnection = async () => {
 if (import.meta.env.DEV) {
   testDatabaseConnection().then(result => {
     if (result.success) {
-      console.log('🎉 MES System: Database ready!', result)
+      console.log('🎉 Müller MES: Database ready!', result)
     } else {
-      console.error('⚠️ MES System: Database not configured', result)
+      console.error('⚠️ Müller MES: Database not configured', result)
       console.log('📖 Please follow the setup instructions in supabase/setup-database.md')
     }
   })

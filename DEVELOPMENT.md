@@ -1,6 +1,6 @@
 # DEVELOPMENT.md
 
-Development guide and architecture documentation for the Open MES system.
+Development guide and architecture documentation for Müller MES.
 
 ## Project Overview
 

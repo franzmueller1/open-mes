@@ -1,8 +1,8 @@
-# Open MES - Manufacturing Execution System
+# Müller MES - Manufacturing Execution System
 
-🚀 **[Live Demo](https://open-mes.vercel.app)** | Keine Anmeldung erforderlich!
+🚀 **[Live Demo](https://mueller-mes.vercel.app)** | Keine Anmeldung erforderlich!
 
-Ein modernes, open-source Manufacturing Execution System (MES) mit Supabase-Integration für effiziente Produktionsverwaltung.
+Ein modernes Manufacturing Execution System (MES) mit Supabase-Integration für effiziente Produktionsverwaltung.
 
 ## Features
 
@@ -34,8 +34,8 @@ Ein modernes, open-source Manufacturing Execution System (MES) mit Supabase-Inte
 ### 1. Repository klonen
 
 ```bash
-git clone https://github.com/yourusername/mes-system.git
-cd mes-system
+git clone https://github.com/franzmueller1/mueller-mes.git
+cd mueller-mes
 ```
 
 ### 2. Dependencies installieren
@@ -199,4 +199,4 @@ Beiträge sind willkommen! Pull Requests und Issues sind erwünscht.
 
 ---
 
-Open Source MES für moderne Fertigungsunternehmen
+Müller MES - Professionelle Produktionsverwaltung

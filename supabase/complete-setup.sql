@@ -1,5 +1,5 @@
 -- ============================================
--- OPEN MES - COMPLETE DATABASE SETUP
+-- MÜLLER MES - COMPLETE DATABASE SETUP
 -- ============================================
 -- Execute this script in Supabase SQL Editor
 -- Creates all tables, policies and demo data

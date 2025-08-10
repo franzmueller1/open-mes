@@ -1,13 +1,13 @@
 {
-  "name": "open-mes",
+  "name": "mueller-mes",
   "version": "1.0.0",
   "type": "module",
-  "description": "Open Source Manufacturing Execution System",
+  "description": "Müller MES - Manufacturing Execution System",
   "author": "Franz Müller",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/franzmueller1/open-mes.git"
+    "url": "https://github.com/franzmueller1/mueller-mes.git"
   },
   "scripts": {
     "dev": "vite",
